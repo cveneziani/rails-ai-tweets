@@ -22,6 +22,7 @@ gem "simple_form", github: "heartcombo/simple_form"
 gem "sassc-rails"
 
 # own gems
+gem "devise"
 gem "ruby_llm", "~> 1.2.0"
 
 group :development, :test do
